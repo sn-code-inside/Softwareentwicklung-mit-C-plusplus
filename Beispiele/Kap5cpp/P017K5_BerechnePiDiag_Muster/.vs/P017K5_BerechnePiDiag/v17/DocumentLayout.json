@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap5\\P017K5_BerechnePiDiag\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5324CCEB-6600-4981-8289-DA3BBB3297C4}|P017K5_BerechnePiDiag.vcxproj|D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap5\\P017K5_BerechnePiDiag\\P017K5BerechnePiDiag.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 \u0027$  \u0022     ",
+      "RelativeMoniker": "D:0:0:{5324CCEB-6600-4981-8289-DA3BBB3297C4}|P017K5_BerechnePiDiag.vcxproj|solutionrelative:P017K5BerechnePiDiag.rc||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       % \u0086 \u0027$  \u0022     "
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P017K5BerechnePiDiag.rc - IDD_P017K5_BERECHNEPIDIAG_DIALOG - Dialog",
+              "DocumentMoniker": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap5\\P017K5_BerechnePiDiag\\P017K5BerechnePiDiag.rc",
+              "RelativeDocumentMoniker": "P017K5BerechnePiDiag.rc",
+              "ToolTip": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap5\\P017K5_BerechnePiDiag\\P017K5BerechnePiDiag.rc - IDD_P017K5_BERECHNEPIDIAG_DIALOG - Dialog",
+              "RelativeToolTip": "P017K5BerechnePiDiag.rc - IDD_P017K5_BERECHNEPIDIAG_DIALOG - Dialog",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-31T16:01:56.969Z",
+              "EditorCaption": " - IDD_P017K5_BERECHNEPIDIAG_DIALOG - Dialog"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

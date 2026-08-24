@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "P001K4_Pi", "P001K4_Pi.exe", "{B84D78AC-8084-41B9-B8B5-F91AEA592F53}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\Dieter\Documents\CPPBuch\_AuB\Beispiele\Kap4\P001K4_Pi\P001K4_Pi\P001K4_Pi\P001K4_Pi.exe
+		RemoteMachine = DDUNB
+		StartingDirectory = C:\Users\Dieter\Documents\CPPBuch\_AuB\Beispiele\Kap4\P001K4_Pi\P001K4_Pi\P001K4_Pi
+		Environment = Standard
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B84D78AC-8084-41B9-B8B5-F91AEA592F53}.Debug|x86.ActiveCfg = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

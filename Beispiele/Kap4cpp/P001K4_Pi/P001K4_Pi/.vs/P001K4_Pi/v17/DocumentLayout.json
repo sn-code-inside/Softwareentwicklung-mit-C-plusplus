@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap4\\P001K4_Pi\\P001K4_Pi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAAEC434-1C78-472F-9FA8-81A1638957DB}|P001K4_Pi\\P001K4_Pi.vcxproj|D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap4\\P001K4_Pi\\P001K4_Pi\\P001K4_Pi\\P001K4_Pi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAAEC434-1C78-472F-9FA8-81A1638957DB}|P001K4_Pi\\P001K4_Pi.vcxproj|solutionrelative:P001K4_Pi\\P001K4_Pi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P001K4_Pi.cpp",
+              "DocumentMoniker": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap4\\P001K4_Pi\\P001K4_Pi\\P001K4_Pi\\P001K4_Pi.cpp",
+              "RelativeDocumentMoniker": "P001K4_Pi\\P001K4_Pi.cpp",
+              "ToolTip": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap4\\P001K4_Pi\\P001K4_Pi\\P001K4_Pi\\P001K4_Pi.cpp",
+              "RelativeToolTip": "P001K4_Pi\\P001K4_Pi.cpp",
+              "ViewState": "AQIAABAAAAAAAAAAAIA5wBkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T05:39:35.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

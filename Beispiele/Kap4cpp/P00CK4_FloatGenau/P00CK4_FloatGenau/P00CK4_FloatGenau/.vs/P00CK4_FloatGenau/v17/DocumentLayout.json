@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap4\\P00CK4_FloatGenau\\P00CK4_FloatGenau\\P00CK4_FloatGenau\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99F7281F-7673-4D7F-ABB9-45C19518A1A4}|P00CK4_FloatGenau\\P00CK4_FloatGenau.vcxproj|D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap4\\P00CK4_FloatGenau\\P00CK4_FloatGenau\\P00CK4_FloatGenau\\P00CK4_FloatGenau\\P00CK4_FloatGenau.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99F7281F-7673-4D7F-ABB9-45C19518A1A4}|P00CK4_FloatGenau\\P00CK4_FloatGenau.vcxproj|solutionrelative:P00CK4_FloatGenau\\P00CK4_FloatGenau.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P00CK4_FloatGenau.cpp",
+              "DocumentMoniker": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap4\\P00CK4_FloatGenau\\P00CK4_FloatGenau\\P00CK4_FloatGenau\\P00CK4_FloatGenau\\P00CK4_FloatGenau.cpp",
+              "RelativeDocumentMoniker": "P00CK4_FloatGenau\\P00CK4_FloatGenau.cpp",
+              "ToolTip": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap4\\P00CK4_FloatGenau\\P00CK4_FloatGenau\\P00CK4_FloatGenau\\P00CK4_FloatGenau\\P00CK4_FloatGenau.cpp",
+              "RelativeToolTip": "P00CK4_FloatGenau\\P00CK4_FloatGenau.cpp",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAhwB8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T13:48:06.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

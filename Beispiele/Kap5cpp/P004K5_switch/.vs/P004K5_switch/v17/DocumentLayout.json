@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap5\\P004K5_switch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{398D02B6-99A4-4310-8A79-56EFC1F19384}|P004K5_switch\\P004K5_switch.vcxproj|D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap5\\P004K5_switch\\P004K5_switch\\P004K5_switch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{398D02B6-99A4-4310-8A79-56EFC1F19384}|P004K5_switch\\P004K5_switch.vcxproj|solutionrelative:P004K5_switch\\P004K5_switch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P004K5_switch.cpp",
+              "DocumentMoniker": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap5\\P004K5_switch\\P004K5_switch\\P004K5_switch.cpp",
+              "RelativeDocumentMoniker": "P004K5_switch\\P004K5_switch.cpp",
+              "ToolTip": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap5\\P004K5_switch\\P004K5_switch\\P004K5_switch.cpp",
+              "RelativeToolTip": "P004K5_switch\\P004K5_switch.cpp",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-12T15:05:53.315Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap4\\P003K4_Var\\cP003K4_Var\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD199C1-24A3-458F-B640-FAD8CC0612A4}|P003K4_Var\\P003K4_Var.vcxproj|D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap4\\P003K4_Var\\cP003K4_Var\\P003K4_Var\\P003K4_Var.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CDD199C1-24A3-458F-B640-FAD8CC0612A4}|P003K4_Var\\P003K4_Var.vcxproj|solutionrelative:P003K4_Var\\P003K4_Var.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P003K4_Var.c",
+              "DocumentMoniker": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap4\\P003K4_Var\\cP003K4_Var\\P003K4_Var\\P003K4_Var.c",
+              "RelativeDocumentMoniker": "P003K4_Var\\P003K4_Var.c",
+              "ToolTip": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap4\\P003K4_Var\\cP003K4_Var\\P003K4_Var\\P003K4_Var.c",
+              "RelativeToolTip": "P003K4_Var\\P003K4_Var.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-03T08:37:34.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

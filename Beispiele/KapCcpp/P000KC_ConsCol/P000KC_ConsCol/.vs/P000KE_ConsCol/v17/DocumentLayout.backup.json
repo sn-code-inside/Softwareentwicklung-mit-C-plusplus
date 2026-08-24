@@ -1,0 +1,47 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\KapCcpp\\P000KE_ConsCol\\P000KE_ConsCol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA277A58-FC2B-4EAF-BD45-9764C1B65F52}|P000KE_ConsCol\\P000KE_ConsCol.vcxproj|D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\KapCcpp\\P000KE_ConsCol\\P000KE_ConsCol\\P000KE_ConsCol\\P000KE_ConsCol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA277A58-FC2B-4EAF-BD45-9764C1B65F52}|P000KE_ConsCol\\P000KE_ConsCol.vcxproj|solutionrelative:P000KE_ConsCol\\P000KE_ConsCol.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P000KE_ConsCol.cpp",
+              "DocumentMoniker": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\KapCcpp\\P000KE_ConsCol\\P000KE_ConsCol\\P000KE_ConsCol\\P000KE_ConsCol.cpp",
+              "RelativeDocumentMoniker": "P000KE_ConsCol\\P000KE_ConsCol.cpp",
+              "ToolTip": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\KapCcpp\\P000KE_ConsCol\\P000KE_ConsCol\\P000KE_ConsCol\\P000KE_ConsCol.cpp*",
+              "RelativeToolTip": "P000KE_ConsCol\\P000KE_ConsCol.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-10T04:07:24.08Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 219,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

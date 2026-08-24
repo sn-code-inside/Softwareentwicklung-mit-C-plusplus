@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap5\\P013K5_TeOp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB7B823-9F81-4E17-B6E6-19B350DC7C8D}|P013K5_TeOp\\P013K5_TeOp.vcxproj|D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap5\\P013K5_TeOp\\P013K5_TeOp\\P013K5_TeOp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DB7B823-9F81-4E17-B6E6-19B350DC7C8D}|P013K5_TeOp\\P013K5_TeOp.vcxproj|solutionrelative:P013K5_TeOp\\P013K5_TeOp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P013K5_TeOp.cpp",
+              "DocumentMoniker": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap5\\P013K5_TeOp\\P013K5_TeOp\\P013K5_TeOp.cpp",
+              "RelativeDocumentMoniker": "P013K5_TeOp\\P013K5_TeOp.cpp",
+              "ToolTip": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap5\\P013K5_TeOp\\P013K5_TeOp\\P013K5_TeOp.cpp",
+              "RelativeToolTip": "P013K5_TeOp\\P013K5_TeOp.cpp",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowBIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-11T11:00:40.077Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

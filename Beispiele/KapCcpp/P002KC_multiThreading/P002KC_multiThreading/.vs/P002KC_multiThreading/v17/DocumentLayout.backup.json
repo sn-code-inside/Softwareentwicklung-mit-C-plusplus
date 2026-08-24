@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_KORR\\20260528\\_AuB\\Beispiele\\KapCcpp\\P002KC_multiThreading\\P002KC_multiThreading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A22D60-E878-481F-B935-337885C3FAFB}|P002KC_multiThreading\\P002KC_multiThreading.vcxproj|D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_KORR\\20260528\\_AuB\\Beispiele\\KapCcpp\\P002KC_multiThreading\\P002KC_multiThreading\\P002KC_multiThreading\\P002KC_multiThreading.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F9A22D60-E878-481F-B935-337885C3FAFB}|P002KC_multiThreading\\P002KC_multiThreading.vcxproj|solutionrelative:P002KC_multiThreading\\P002KC_multiThreading.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P002KC_multiThreading.cpp",
+              "DocumentMoniker": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_KORR\\20260528\\_AuB\\Beispiele\\KapCcpp\\P002KC_multiThreading\\P002KC_multiThreading\\P002KC_multiThreading\\P002KC_multiThreading.cpp",
+              "RelativeDocumentMoniker": "P002KC_multiThreading\\P002KC_multiThreading.cpp",
+              "ToolTip": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_KORR\\20260528\\_AuB\\Beispiele\\KapCcpp\\P002KC_multiThreading\\P002KC_multiThreading\\P002KC_multiThreading\\P002KC_multiThreading.cpp",
+              "RelativeToolTip": "P002KC_multiThreading\\P002KC_multiThreading.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-29T18:09:52.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 19,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

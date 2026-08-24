@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap4\\P004K4_Struct\\P004K4_Struct\\P004K4_Struct\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B964DC-FD41-4981-914F-2457E64FDF81}|P004K4_Struct\\P004K4_Struct.vcxproj|D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap4\\P004K4_Struct\\P004K4_Struct\\P004K4_Struct\\P004K4_Struct\\P004K4_Struct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E3B964DC-FD41-4981-914F-2457E64FDF81}|P004K4_Struct\\P004K4_Struct.vcxproj|solutionrelative:P004K4_Struct\\P004K4_Struct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P004K4_Struct.cpp",
+              "DocumentMoniker": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap4\\P004K4_Struct\\P004K4_Struct\\P004K4_Struct\\P004K4_Struct\\P004K4_Struct.cpp",
+              "RelativeDocumentMoniker": "P004K4_Struct\\P004K4_Struct.cpp",
+              "ToolTip": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap4\\P004K4_Struct\\P004K4_Struct\\P004K4_Struct\\P004K4_Struct\\P004K4_Struct.cpp",
+              "RelativeToolTip": "P004K4_Struct\\P004K4_Struct.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-11T12:48:13.944Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_KORR\\20260528\\_AuB\\Beispiele\\KapCcpp\\P001KC_threadEx1\\P001KC_threadEx1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B118C8-BB23-405D-8786-F7467D17151F}|P001KC_threadEx1\\P001KC_threadEx1.vcxproj|D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_KORR\\20260528\\_AuB\\Beispiele\\KapCcpp\\P001KC_threadEx1\\P001KC_threadEx1\\P001KC_threadEx1\\P001KC_threadEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6B118C8-BB23-405D-8786-F7467D17151F}|P001KC_threadEx1\\P001KC_threadEx1.vcxproj|solutionrelative:P001KC_threadEx1\\P001KC_threadEx1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P001KC_threadEx1.cpp",
+              "DocumentMoniker": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_KORR\\20260528\\_AuB\\Beispiele\\KapCcpp\\P001KC_threadEx1\\P001KC_threadEx1\\P001KC_threadEx1\\P001KC_threadEx1.cpp",
+              "RelativeDocumentMoniker": "P001KC_threadEx1\\P001KC_threadEx1.cpp",
+              "ToolTip": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_KORR\\20260528\\_AuB\\Beispiele\\KapCcpp\\P001KC_threadEx1\\P001KC_threadEx1\\P001KC_threadEx1\\P001KC_threadEx1.cpp",
+              "RelativeToolTip": "P001KC_threadEx1\\P001KC_threadEx1.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-20T14:52:20.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 19,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
