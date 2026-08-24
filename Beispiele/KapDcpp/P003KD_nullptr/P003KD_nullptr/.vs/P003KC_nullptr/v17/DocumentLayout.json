@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_KORR\\20260528\\_AuB\\Beispiele\\KapDcpp\\P003KD_nullptr\\P003KD_nullptr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A09547FF-C9DB-4F27-BE87-80AD8EED9794}|P003KC_nullptr\\P003KC_nullptr.vcxproj|D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_KORR\\20260528\\_AuB\\Beispiele\\KapDcpp\\P003KD_nullptr\\P003KD_nullptr\\P003KC_nullptr\\P003KC_nullptr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A09547FF-C9DB-4F27-BE87-80AD8EED9794}|P003KC_nullptr\\P003KC_nullptr.vcxproj|solutionrelative:P003KC_nullptr\\P003KC_nullptr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P003KC_nullptr.cpp",
+              "DocumentMoniker": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_KORR\\20260528\\_AuB\\Beispiele\\KapDcpp\\P003KD_nullptr\\P003KD_nullptr\\P003KC_nullptr\\P003KC_nullptr.cpp",
+              "RelativeDocumentMoniker": "P003KC_nullptr\\P003KC_nullptr.cpp",
+              "ToolTip": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_KORR\\20260528\\_AuB\\Beispiele\\KapDcpp\\P003KD_nullptr\\P003KD_nullptr\\P003KC_nullptr\\P003KC_nullptr.cpp",
+              "RelativeToolTip": "P003KC_nullptr\\P003KC_nullptr.cpp",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAtwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-20T17:27:33.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 219,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

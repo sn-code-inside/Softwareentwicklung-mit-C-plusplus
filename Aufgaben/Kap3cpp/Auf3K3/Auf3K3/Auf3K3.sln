@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Auf3K3", "Auf3K3\Auf3K3.vcxproj", "{E64417B5-370F-4D72-A124-FB4F3EB8EA55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E64417B5-370F-4D72-A124-FB4F3EB8EA55}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E64417B5-370F-4D72-A124-FB4F3EB8EA55}.Debug|Win32.Build.0 = Debug|Win32
+		{E64417B5-370F-4D72-A124-FB4F3EB8EA55}.Release|Win32.ActiveCfg = Release|Win32
+		{E64417B5-370F-4D72-A124-FB4F3EB8EA55}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap7cpp\\P005K7_Terminate\\P005K7_Terminate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D479147D-C64F-4347-8361-5611530C1419}|P005K7_Terminate\\P005K7_Terminate.vcxproj|D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap7cpp\\P005K7_Terminate\\P005K7_Terminate\\P005K7_Terminate\\P005K7_Terminate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D479147D-C64F-4347-8361-5611530C1419}|P005K7_Terminate\\P005K7_Terminate.vcxproj|solutionrelative:P005K7_Terminate\\P005K7_Terminate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P005K7_Terminate.cpp",
+              "DocumentMoniker": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap7cpp\\P005K7_Terminate\\P005K7_Terminate\\P005K7_Terminate\\P005K7_Terminate.cpp",
+              "RelativeDocumentMoniker": "P005K7_Terminate\\P005K7_Terminate.cpp",
+              "ToolTip": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap7cpp\\P005K7_Terminate\\P005K7_Terminate\\P005K7_Terminate\\P005K7_Terminate.cpp",
+              "RelativeToolTip": "P005K7_Terminate\\P005K7_Terminate.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-15T19:54:33.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

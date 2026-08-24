@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap8cpp\\P03KA_FileWrite\\P03KA_FileWrite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{165CCC81-20E9-4353-BBD9-5AACA8D1D215}|P03KA_FileWrite\\P03KA_FileWrite.vcxproj|D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap8cpp\\P03KA_FileWrite\\P03KA_FileWrite\\P03KA_FileWrite\\P04K8_FileWrite.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{165CCC81-20E9-4353-BBD9-5AACA8D1D215}|P03KA_FileWrite\\P03KA_FileWrite.vcxproj|solutionrelative:P03KA_FileWrite\\P04K8_FileWrite.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{165CCC81-20E9-4353-BBD9-5AACA8D1D215}|P03KA_FileWrite\\P03KA_FileWrite.vcxproj|D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap8cpp\\P03KA_FileWrite\\P03KA_FileWrite\\P03KA_FileWrite\\P002K8_fileUtil.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{165CCC81-20E9-4353-BBD9-5AACA8D1D215}|P03KA_FileWrite\\P03KA_FileWrite.vcxproj|solutionrelative:P03KA_FileWrite\\P002K8_fileUtil.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 297,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "P002K8_fileUtil.cpp",
+              "DocumentMoniker": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap8cpp\\P03KA_FileWrite\\P03KA_FileWrite\\P03KA_FileWrite\\P002K8_fileUtil.cpp",
+              "RelativeDocumentMoniker": "P03KA_FileWrite\\P002K8_fileUtil.cpp",
+              "ToolTip": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap8cpp\\P03KA_FileWrite\\P03KA_FileWrite\\P03KA_FileWrite\\P002K8_fileUtil.cpp",
+              "RelativeToolTip": "P03KA_FileWrite\\P002K8_fileUtil.cpp",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAQwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-08T10:20:47.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P04K8_FileWrite.cpp",
+              "DocumentMoniker": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap8cpp\\P03KA_FileWrite\\P03KA_FileWrite\\P03KA_FileWrite\\P04K8_FileWrite.cpp",
+              "RelativeDocumentMoniker": "P03KA_FileWrite\\P04K8_FileWrite.cpp",
+              "ToolTip": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap8cpp\\P03KA_FileWrite\\P03KA_FileWrite\\P03KA_FileWrite\\P04K8_FileWrite.cpp",
+              "RelativeToolTip": "P03KA_FileWrite\\P04K8_FileWrite.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAApwBUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-08T10:20:37.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 103,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

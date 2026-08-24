@@ -1,0 +1,47 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\KapBcpp\\P004KB_TemplMehrDeutig\\P004KB_TemplMehrDeutig\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C91B8C53-735F-466B-97D4-012C25AE2C8C}|P004KB_TemplMehrDeutig\\P004KB_TemplMehrDeutig.vcxproj|D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\KapBcpp\\P004KB_TemplMehrDeutig\\P004KB_TemplMehrDeutig\\P004KB_TemplMehrDeutig\\P004KB_TemplMehrDeutig.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C91B8C53-735F-466B-97D4-012C25AE2C8C}|P004KB_TemplMehrDeutig\\P004KB_TemplMehrDeutig.vcxproj|solutionrelative:P004KB_TemplMehrDeutig\\P004KB_TemplMehrDeutig.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 219,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P004KB_TemplMehrDeutig.cpp",
+              "DocumentMoniker": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\KapBcpp\\P004KB_TemplMehrDeutig\\P004KB_TemplMehrDeutig\\P004KB_TemplMehrDeutig\\P004KB_TemplMehrDeutig.cpp",
+              "RelativeDocumentMoniker": "P004KB_TemplMehrDeutig\\P004KB_TemplMehrDeutig.cpp",
+              "ToolTip": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\KapBcpp\\P004KB_TemplMehrDeutig\\P004KB_TemplMehrDeutig\\P004KB_TemplMehrDeutig\\P004KB_TemplMehrDeutig.cpp",
+              "RelativeToolTip": "P004KB_TemplMehrDeutig\\P004KB_TemplMehrDeutig.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAAAtwCQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-31T14:57:02.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 219,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

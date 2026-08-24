@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <RESOURCE_FILE>P002KDFileView.rc</RESOURCE_FILE>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerCommandArguments>D:\Dokumente\Daten.DDu\_CPPBuch\CPPBuch\V40.00\NewFromSpringer_NEW\_AuB\Beispiele\KapDcpp\P002KD_FileView\P002KD_FileView\x64\Debug\P002KD_FileViewDlg.cpp</LocalDebuggerCommandArguments>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>

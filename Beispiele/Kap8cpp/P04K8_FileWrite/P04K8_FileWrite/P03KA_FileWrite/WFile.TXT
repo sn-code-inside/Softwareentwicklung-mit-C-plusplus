@@ -1,0 +1,4 @@
+Jetzt nutzen Sie die Konsole als kleinen Text-Editor.
+Alles, was Sie schreiben, wird nach WFile.TXT gesichert.
+Das letzte Backup finden Sie in WFile.OLD.
+--------------------------------------------------------

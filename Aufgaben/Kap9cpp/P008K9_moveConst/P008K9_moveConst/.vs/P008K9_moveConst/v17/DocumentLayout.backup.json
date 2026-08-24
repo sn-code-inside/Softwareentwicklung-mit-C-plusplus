@@ -1,0 +1,47 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap9cpp\\P008K9_moveConst\\P008K9_moveConst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA68CB4-B334-4D0A-A199-651D747A4B5D}|P008K9_moveConst\\P008K9_moveConst.vcxproj|D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap9cpp\\P008K9_moveConst\\P008K9_moveConst\\P008K9_moveConst\\P008K9_moveConst.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DFA68CB4-B334-4D0A-A199-651D747A4B5D}|P008K9_moveConst\\P008K9_moveConst.vcxproj|solutionrelative:P008K9_moveConst\\P008K9_moveConst.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P008K9_moveConst.cpp",
+              "DocumentMoniker": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap9cpp\\P008K9_moveConst\\P008K9_moveConst\\P008K9_moveConst\\P008K9_moveConst.cpp",
+              "RelativeDocumentMoniker": "P008K9_moveConst\\P008K9_moveConst.cpp",
+              "ToolTip": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap9cpp\\P008K9_moveConst\\P008K9_moveConst\\P008K9_moveConst\\P008K9_moveConst.cpp",
+              "RelativeToolTip": "P008K9_moveConst\\P008K9_moveConst.cpp",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-29T05:15:31.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 219,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

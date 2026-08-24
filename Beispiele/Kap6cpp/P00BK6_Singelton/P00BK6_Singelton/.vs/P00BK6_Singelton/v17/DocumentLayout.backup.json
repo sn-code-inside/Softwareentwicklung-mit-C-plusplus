@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap6cpp\\P00BK6_Singelton\\P00BK6_Singelton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{799744A1-9815-4F21-9EEB-4B83437C99A3}|P00BK6_Singelton\\P00BK6_Singelton.vcxproj|D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap6cpp\\P00BK6_Singelton\\P00BK6_Singelton\\P00BK6_Singelton\\P00BK6_Singelton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{799744A1-9815-4F21-9EEB-4B83437C99A3}|P00BK6_Singelton\\P00BK6_Singelton.vcxproj|solutionrelative:P00BK6_Singelton\\P00BK6_Singelton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P00BK6_Singelton.cpp",
+              "DocumentMoniker": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap6cpp\\P00BK6_Singelton\\P00BK6_Singelton\\P00BK6_Singelton\\P00BK6_Singelton.cpp",
+              "RelativeDocumentMoniker": "P00BK6_Singelton\\P00BK6_Singelton.cpp",
+              "ToolTip": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap6cpp\\P00BK6_Singelton\\P00BK6_Singelton\\P00BK6_Singelton\\P00BK6_Singelton.cpp",
+              "RelativeToolTip": "P00BK6_Singelton\\P00BK6_Singelton.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-12T17:21:11.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

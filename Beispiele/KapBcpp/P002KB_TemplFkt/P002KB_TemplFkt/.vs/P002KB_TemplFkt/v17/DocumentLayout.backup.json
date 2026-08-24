@@ -1,0 +1,47 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\KapBcpp\\P002KB_TemplFkt\\P002KB_TemplFkt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A24C7C93-CA04-49E5-BBC8-9669A5DE034C}|P002KB_TemplFkt\\P002KB_TemplFkt.vcxproj|D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\KapBcpp\\P002KB_TemplFkt\\P002KB_TemplFkt\\P002KB_TemplFkt\\P002KB_TemplFkt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A24C7C93-CA04-49E5-BBC8-9669A5DE034C}|P002KB_TemplFkt\\P002KB_TemplFkt.vcxproj|solutionrelative:P002KB_TemplFkt\\P002KB_TemplFkt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 219,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P002KB_TemplFkt.cpp",
+              "DocumentMoniker": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\KapBcpp\\P002KB_TemplFkt\\P002KB_TemplFkt\\P002KB_TemplFkt\\P002KB_TemplFkt.cpp",
+              "RelativeDocumentMoniker": "P002KB_TemplFkt\\P002KB_TemplFkt.cpp",
+              "ToolTip": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\KapBcpp\\P002KB_TemplFkt\\P002KB_TemplFkt\\P002KB_TemplFkt\\P002KB_TemplFkt.cpp",
+              "RelativeToolTip": "P002KB_TemplFkt\\P002KB_TemplFkt.cpp",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-31T12:45:12.493Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 219,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

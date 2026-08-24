@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap7cpp\\P0AK7_STDMeth2\\P0AK7_STDMeth2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12E63556-83DC-446A-B539-AE2AC2660BC8}|P0AK7_STDMeth2\\P0AK7_STDMeth2.vcxproj|D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap7cpp\\P0AK7_STDMeth2\\P0AK7_STDMeth2\\P0AK7_STDMeth2\\P0AK7_STDMeth2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12E63556-83DC-446A-B539-AE2AC2660BC8}|P0AK7_STDMeth2\\P0AK7_STDMeth2.vcxproj|solutionrelative:P0AK7_STDMeth2\\P0AK7_STDMeth2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P0AK7_STDMeth2.cpp",
+              "DocumentMoniker": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap7cpp\\P0AK7_STDMeth2\\P0AK7_STDMeth2\\P0AK7_STDMeth2\\P0AK7_STDMeth2.cpp",
+              "RelativeDocumentMoniker": "P0AK7_STDMeth2\\P0AK7_STDMeth2.cpp",
+              "ToolTip": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap7cpp\\P0AK7_STDMeth2\\P0AK7_STDMeth2\\P0AK7_STDMeth2\\P0AK7_STDMeth2.cpp",
+              "RelativeToolTip": "P0AK7_STDMeth2\\P0AK7_STDMeth2.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAEwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-17T20:32:03.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

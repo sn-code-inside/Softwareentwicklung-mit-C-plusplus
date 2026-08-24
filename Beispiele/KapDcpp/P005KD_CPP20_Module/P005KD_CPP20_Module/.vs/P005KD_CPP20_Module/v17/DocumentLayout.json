@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\KapDcpp\\P005KD_CPP20_Module\\P005KD_CPP20_Module\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF7AB1-B1CF-4863-BE5D-ABD8E3C5A6AC}|P005KD_CPP20_Module.vcxproj|D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\KapDcpp\\P005KD_CPP20_Module\\P005KD_CPP20_Module\\P005KD_CPP20_Module.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38FF7AB1-B1CF-4863-BE5D-ABD8E3C5A6AC}|P005KD_CPP20_Module.vcxproj|solutionrelative:P005KD_CPP20_Module.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38FF7AB1-B1CF-4863-BE5D-ABD8E3C5A6AC}|P005KD_CPP20_Module.vcxproj|D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\KapDcpp\\P005KD_CPP20_Module\\P005KD_CPP20_Module\\math.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38FF7AB1-B1CF-4863-BE5D-ABD8E3C5A6AC}|P005KD_CPP20_Module.vcxproj|solutionrelative:math.ixx||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 219,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "math.ixx",
+              "DocumentMoniker": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\KapDcpp\\P005KD_CPP20_Module\\P005KD_CPP20_Module\\math.ixx",
+              "RelativeDocumentMoniker": "math.ixx",
+              "ToolTip": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\KapDcpp\\P005KD_CPP20_Module\\P005KD_CPP20_Module\\math.ixx",
+              "RelativeToolTip": "math.ixx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
+              "WhenOpened": "2026-04-17T19:11:57.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P005KD_CPP20_Module.cpp",
+              "DocumentMoniker": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\KapDcpp\\P005KD_CPP20_Module\\P005KD_CPP20_Module\\P005KD_CPP20_Module.cpp",
+              "RelativeDocumentMoniker": "P005KD_CPP20_Module.cpp",
+              "ToolTip": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\KapDcpp\\P005KD_CPP20_Module\\P005KD_CPP20_Module\\P005KD_CPP20_Module.cpp",
+              "RelativeToolTip": "P005KD_CPP20_Module.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-17T18:45:50.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 219,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

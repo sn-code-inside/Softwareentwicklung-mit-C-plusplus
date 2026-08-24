@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\KapDcpp\\P010KD_Kapreka\\P010KD_Kapreka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03EA52BD-57FB-47D2-8FB4-E6F7B017B36B}|P010KD_Kapreka.vcxproj|D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\KapDcpp\\P010KD_Kapreka\\P010KD_Kapreka\\P010KD_Kapreka.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03EA52BD-57FB-47D2-8FB4-E6F7B017B36B}|P010KD_Kapreka.vcxproj|solutionrelative:P010KD_Kapreka.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EA52BD-57FB-47D2-8FB4-E6F7B017B36B}|P010KD_Kapreka.vcxproj|D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\KapDcpp\\P010KD_Kapreka\\P010KD_Kapreka\\kaprekUtil.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03EA52BD-57FB-47D2-8FB4-E6F7B017B36B}|P010KD_Kapreka.vcxproj|solutionrelative:kaprekUtil.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\KapDcpp\\P00DKD_BubbleSort\\P00DKD_BubbleSort\\P00DKD_BubbleSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EA52BD-57FB-47D2-8FB4-E6F7B017B36B}|P010KD_Kapreka.vcxproj|D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\KapDcpp\\P010KD_Kapreka\\P010KD_Kapreka\\kaprekUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03EA52BD-57FB-47D2-8FB4-E6F7B017B36B}|P010KD_Kapreka.vcxproj|solutionrelative:kaprekUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 219,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "kaprekUtil.cpp",
+              "DocumentMoniker": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\KapDcpp\\P010KD_Kapreka\\P010KD_Kapreka\\kaprekUtil.cpp",
+              "RelativeDocumentMoniker": "kaprekUtil.cpp",
+              "ToolTip": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\KapDcpp\\P010KD_Kapreka\\P010KD_Kapreka\\kaprekUtil.cpp",
+              "RelativeToolTip": "kaprekUtil.cpp",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAowFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-21T14:02:02.067Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "P00DKD_BubbleSort.cpp",
+              "DocumentMoniker": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\KapDcpp\\P00DKD_BubbleSort\\P00DKD_BubbleSort\\P00DKD_BubbleSort.cpp",
+              "RelativeDocumentMoniker": "..\\..\\P00DKD_BubbleSort\\P00DKD_BubbleSort\\P00DKD_BubbleSort.cpp",
+              "ToolTip": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\KapDcpp\\P00DKD_BubbleSort\\P00DKD_BubbleSort\\P00DKD_BubbleSort.cpp",
+              "RelativeToolTip": "..\\..\\P00DKD_BubbleSort\\P00DKD_BubbleSort\\P00DKD_BubbleSort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-25T16:45:14.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P010KD_Kapreka.cpp",
+              "DocumentMoniker": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\KapDcpp\\P010KD_Kapreka\\P010KD_Kapreka\\P010KD_Kapreka.cpp",
+              "RelativeDocumentMoniker": "P010KD_Kapreka.cpp",
+              "ToolTip": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\KapDcpp\\P010KD_Kapreka\\P010KD_Kapreka\\P010KD_Kapreka.cpp*",
+              "RelativeToolTip": "P010KD_Kapreka.cpp*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-21T13:58:58.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "kaprekUtil.h",
+              "DocumentMoniker": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\KapDcpp\\P010KD_Kapreka\\P010KD_Kapreka\\kaprekUtil.h",
+              "RelativeDocumentMoniker": "kaprekUtil.h",
+              "ToolTip": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\KapDcpp\\P010KD_Kapreka\\P010KD_Kapreka\\kaprekUtil.h",
+              "RelativeToolTip": "kaprekUtil.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-21T10:50:52.124Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 219,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

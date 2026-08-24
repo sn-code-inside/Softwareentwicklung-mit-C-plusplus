@@ -1,0 +1,47 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap9cpp\\P004K9FuncOL\\P004K9FuncOL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17E56D45-F9A0-4C04-8F7A-C40B89B04034}|P004K9FuncOL\\P004K9FuncOL.vcxproj|D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap9cpp\\P004K9FuncOL\\P004K9FuncOL\\P004K9FuncOL\\P004K9FuncOL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17E56D45-F9A0-4C04-8F7A-C40B89B04034}|P004K9FuncOL\\P004K9FuncOL.vcxproj|solutionrelative:P004K9FuncOL\\P004K9FuncOL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P004K9FuncOL.cpp",
+              "DocumentMoniker": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap9cpp\\P004K9FuncOL\\P004K9FuncOL\\P004K9FuncOL\\P004K9FuncOL.cpp",
+              "RelativeDocumentMoniker": "P004K9FuncOL\\P004K9FuncOL.cpp",
+              "ToolTip": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap9cpp\\P004K9FuncOL\\P004K9FuncOL\\P004K9FuncOL\\P004K9FuncOL.cpp",
+              "RelativeToolTip": "P004K9FuncOL\\P004K9FuncOL.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-27T05:30:06.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 219,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

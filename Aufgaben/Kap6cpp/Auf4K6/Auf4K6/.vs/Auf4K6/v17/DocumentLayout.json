@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_KORR\\20260528\\_AuB\\Aufgaben\\Kap6cpp\\Auf4K6\\Auf4K6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7480ADD-FD5D-4DB5-8C09-193F3CB2B8BB}|Auf4K6\\Auf4K6.vcxproj|D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_KORR\\20260528\\_AuB\\Aufgaben\\Kap6cpp\\Auf4K6\\Auf4K6\\Auf4K6\\Auf4K6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7480ADD-FD5D-4DB5-8C09-193F3CB2B8BB}|Auf4K6\\Auf4K6.vcxproj|solutionrelative:Auf4K6\\Auf4K6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Auf4K6.cpp",
+              "DocumentMoniker": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_KORR\\20260528\\_AuB\\Aufgaben\\Kap6cpp\\Auf4K6\\Auf4K6\\Auf4K6\\Auf4K6.cpp",
+              "RelativeDocumentMoniker": "Auf4K6\\Auf4K6.cpp",
+              "ToolTip": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_KORR\\20260528\\_AuB\\Aufgaben\\Kap6cpp\\Auf4K6\\Auf4K6\\Auf4K6\\Auf4K6.cpp",
+              "RelativeToolTip": "Auf4K6\\Auf4K6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-26T19:50:01.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

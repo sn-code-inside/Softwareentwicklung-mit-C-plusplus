@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap3\\P006K3cout\\P006K3cout\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14CFD503-1F74-44A2-B660-4D3A67C2387A}|P006K3cout\\P006K3cout.vcxproj|D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap3\\P006K3cout\\P006K3cout\\P006K3cout\\P006K3cout.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14CFD503-1F74-44A2-B660-4D3A67C2387A}|P006K3cout\\P006K3cout.vcxproj|solutionrelative:P006K3cout\\P006K3cout.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P006K3cout.cpp",
+              "DocumentMoniker": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap3\\P006K3cout\\P006K3cout\\P006K3cout\\P006K3cout.cpp",
+              "RelativeDocumentMoniker": "P006K3cout\\P006K3cout.cpp",
+              "ToolTip": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap3\\P006K3cout\\P006K3cout\\P006K3cout\\P006K3cout.cpp",
+              "RelativeToolTip": "P006K3cout\\P006K3cout.cpp",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAhwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-13T06:36:43.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

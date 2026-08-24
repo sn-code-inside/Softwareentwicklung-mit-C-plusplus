@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap7cpp\\P0B_2K7_Mutex\\P0B_2K7_Mutex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D57078E-2735-49A6-8F01-5C81FB061C8A}|P0B_2K7_Mutex.vcxproj|D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap7cpp\\P0B_2K7_Mutex\\P0B_2K7_Mutex\\P0B_2K7_Mutex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D57078E-2735-49A6-8F01-5C81FB061C8A}|P0B_2K7_Mutex.vcxproj|solutionrelative:P0B_2K7_Mutex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P0B_2K7_Mutex.cpp",
+              "DocumentMoniker": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap7cpp\\P0B_2K7_Mutex\\P0B_2K7_Mutex\\P0B_2K7_Mutex.cpp",
+              "RelativeDocumentMoniker": "P0B_2K7_Mutex.cpp",
+              "ToolTip": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap7cpp\\P0B_2K7_Mutex\\P0B_2K7_Mutex\\P0B_2K7_Mutex.cpp",
+              "RelativeToolTip": "P0B_2K7_Mutex.cpp",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwDEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-20T13:23:31.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

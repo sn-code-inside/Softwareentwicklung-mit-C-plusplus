@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap8cpp\\P003K8_ReadFille\\P003K8_ReadFille\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD167861-584B-4141-A9F8-7E8A94C37F54}|P003K8_ReadFille.vcxproj|D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap8cpp\\P003K8_ReadFille\\P003K8_ReadFille\\P003K8_ReadFile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD167861-584B-4141-A9F8-7E8A94C37F54}|P003K8_ReadFille.vcxproj|solutionrelative:P003K8_ReadFile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD167861-584B-4141-A9F8-7E8A94C37F54}|P003K8_ReadFille.vcxproj|D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap8cpp\\P003K8_ReadFille\\P003K8_ReadFille\\P002K8_fileUtil.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD167861-584B-4141-A9F8-7E8A94C37F54}|P003K8_ReadFille.vcxproj|solutionrelative:P002K8_fileUtil.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "P002K8_fileUtil.cpp",
+              "DocumentMoniker": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap8cpp\\P003K8_ReadFille\\P003K8_ReadFille\\P002K8_fileUtil.cpp",
+              "RelativeDocumentMoniker": "P002K8_fileUtil.cpp",
+              "ToolTip": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap8cpp\\P003K8_ReadFille\\P003K8_ReadFille\\P002K8_fileUtil.cpp",
+              "RelativeToolTip": "P002K8_fileUtil.cpp",
+              "ViewState": "AgIAAC8AAAAAAAAAAAApwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-08T19:28:29.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P003K8_ReadFile.cpp",
+              "DocumentMoniker": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap8cpp\\P003K8_ReadFille\\P003K8_ReadFille\\P003K8_ReadFile.cpp",
+              "RelativeDocumentMoniker": "P003K8_ReadFile.cpp",
+              "ToolTip": "D:\\Dokumente\\Daten.DDu\\_CPPBuch\\CPPBuch\\V40.00\\NewFromSpringer_NEW\\_AuB\\Beispiele\\Kap8cpp\\P003K8_ReadFille\\P003K8_ReadFille\\P003K8_ReadFile.cpp*",
+              "RelativeToolTip": "P003K8_ReadFile.cpp*",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwDQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-08T19:25:31.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
